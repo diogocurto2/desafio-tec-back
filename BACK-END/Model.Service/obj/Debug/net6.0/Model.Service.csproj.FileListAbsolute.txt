@@ -1,0 +1,15 @@
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Service\bin\Debug\net6.0\Model.Service.deps.json
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Service\bin\Debug\net6.0\Model.Service.dll
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Service\bin\Debug\net6.0\Model.Service.pdb
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Service\obj\Debug\net6.0\Model.Service.csproj.AssemblyReference.cache
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Service\obj\Debug\net6.0\Model.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Service\obj\Debug\net6.0\Model.Service.AssemblyInfoInputs.cache
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Service\obj\Debug\net6.0\Model.Service.AssemblyInfo.cs
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Service\obj\Debug\net6.0\Model.Service.csproj.CoreCompileInputs.cache
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Service\obj\Debug\net6.0\Model.Service.dll
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Service\obj\Debug\net6.0\refint\Model.Service.dll
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Service\obj\Debug\net6.0\Model.Service.pdb
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Service\obj\Debug\net6.0\ref\Model.Service.dll
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Service\bin\Debug\net6.0\Model.Domain.dll
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Service\bin\Debug\net6.0\Model.Domain.pdb
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Service\obj\Debug\net6.0\Model.Service.csproj.CopyComplete

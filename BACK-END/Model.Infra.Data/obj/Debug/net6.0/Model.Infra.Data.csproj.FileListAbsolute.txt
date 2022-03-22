@@ -1,0 +1,15 @@
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Infra.Data\bin\Debug\net6.0\Model.Infra.Data.deps.json
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Infra.Data\bin\Debug\net6.0\Model.Infra.Data.dll
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Infra.Data\bin\Debug\net6.0\Model.Infra.Data.pdb
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Infra.Data\obj\Debug\net6.0\Model.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Infra.Data\obj\Debug\net6.0\Model.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Infra.Data\obj\Debug\net6.0\Model.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Infra.Data\obj\Debug\net6.0\Model.Infra.Data.AssemblyInfo.cs
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Infra.Data\obj\Debug\net6.0\Model.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Infra.Data\obj\Debug\net6.0\Model.Infra.Data.dll
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Infra.Data\obj\Debug\net6.0\refint\Model.Infra.Data.dll
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Infra.Data\obj\Debug\net6.0\Model.Infra.Data.pdb
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Infra.Data\obj\Debug\net6.0\ref\Model.Infra.Data.dll
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Infra.Data\bin\Debug\net6.0\Model.Domain.dll
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Infra.Data\bin\Debug\net6.0\Model.Domain.pdb
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Infra.Data\obj\Debug\net6.0\Model.Infra.Data.csproj.CopyComplete

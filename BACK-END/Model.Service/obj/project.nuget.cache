@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RUFSpyRwUbuq3WDwrIk5dQH/wXJwtAqnh+TUNcNVKgHW7PNStSJNNjPF+nFy7AuD4bLpEPwa1tdCz/FFgz/RBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diogo\\source\\repos\\desafio-tecnico-backend\\BACK-END\\Model.Service\\Model.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diogo\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
+    "C:\\Users\\diogo\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.4.0\\fluentvalidation.aspnetcore.10.4.0.nupkg.sha512",
+    "C:\\Users\\diogo\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.4.0\\fluentvalidation.dependencyinjectionextensions.10.4.0.nupkg.sha512",
+    "C:\\Users\\diogo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

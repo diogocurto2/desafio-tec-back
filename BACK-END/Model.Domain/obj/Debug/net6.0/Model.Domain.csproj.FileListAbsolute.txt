@@ -1,0 +1,12 @@
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Domain\bin\Debug\net6.0\Model.Domain.deps.json
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Domain\bin\Debug\net6.0\Model.Domain.dll
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Domain\bin\Debug\net6.0\Model.Domain.pdb
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Domain\obj\Debug\net6.0\Model.Domain.csproj.AssemblyReference.cache
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Domain\obj\Debug\net6.0\Model.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Domain\obj\Debug\net6.0\Model.Domain.AssemblyInfoInputs.cache
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Domain\obj\Debug\net6.0\Model.Domain.AssemblyInfo.cs
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Domain\obj\Debug\net6.0\Model.Domain.csproj.CoreCompileInputs.cache
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Domain\obj\Debug\net6.0\Model.Domain.dll
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Domain\obj\Debug\net6.0\refint\Model.Domain.dll
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Domain\obj\Debug\net6.0\Model.Domain.pdb
+C:\Users\diogo\source\repos\desafio-tecnico-backend\BACK-END\Model.Domain\obj\Debug\net6.0\ref\Model.Domain.dll

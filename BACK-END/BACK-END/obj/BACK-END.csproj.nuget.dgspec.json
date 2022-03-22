@@ -1,0 +1,299 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\diogo\\source\\repos\\desafio-tecnico-backend\\BACK-END\\BACK-END\\BACK-END.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\diogo\\source\\repos\\desafio-tecnico-backend\\BACK-END\\BACK-END\\BACK-END.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\diogo\\source\\repos\\desafio-tecnico-backend\\BACK-END\\BACK-END\\BACK-END.csproj",
+        "projectName": "BACK-END",
+        "projectPath": "C:\\Users\\diogo\\source\\repos\\desafio-tecnico-backend\\BACK-END\\BACK-END\\BACK-END.csproj",
+        "packagesPath": "C:\\Users\\diogo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\diogo\\source\\repos\\desafio-tecnico-backend\\BACK-END\\BACK-END\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\diogo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\diogo\\source\\repos\\desafio-tecnico-backend\\BACK-END\\Model.Domain\\Model.Domain.csproj": {
+                "projectPath": "C:\\Users\\diogo\\source\\repos\\desafio-tecnico-backend\\BACK-END\\Model.Domain\\Model.Domain.csproj"
+              },
+              "C:\\Users\\diogo\\source\\repos\\desafio-tecnico-backend\\BACK-END\\Model.Infra.Data\\Model.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\diogo\\source\\repos\\desafio-tecnico-backend\\BACK-END\\Model.Infra.Data\\Model.Infra.Data.csproj"
+              },
+              "C:\\Users\\diogo\\source\\repos\\desafio-tecnico-backend\\BACK-END\\Model.Service\\Model.Service.csproj": {
+                "projectPath": "C:\\Users\\diogo\\source\\repos\\desafio-tecnico-backend\\BACK-END\\Model.Service\\Model.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.Identity.Web": {
+              "target": "Package",
+              "version": "[1.23.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\diogo\\source\\repos\\desafio-tecnico-backend\\BACK-END\\Model.Domain\\Model.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\diogo\\source\\repos\\desafio-tecnico-backend\\BACK-END\\Model.Domain\\Model.Domain.csproj",
+        "projectName": "Model.Domain",
+        "projectPath": "C:\\Users\\diogo\\source\\repos\\desafio-tecnico-backend\\BACK-END\\Model.Domain\\Model.Domain.csproj",
+        "packagesPath": "C:\\Users\\diogo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\diogo\\source\\repos\\desafio-tecnico-backend\\BACK-END\\Model.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\diogo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\diogo\\source\\repos\\desafio-tecnico-backend\\BACK-END\\Model.Infra.Data\\Model.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\diogo\\source\\repos\\desafio-tecnico-backend\\BACK-END\\Model.Infra.Data\\Model.Infra.Data.csproj",
+        "projectName": "Model.Infra.Data",
+        "projectPath": "C:\\Users\\diogo\\source\\repos\\desafio-tecnico-backend\\BACK-END\\Model.Infra.Data\\Model.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\diogo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\diogo\\source\\repos\\desafio-tecnico-backend\\BACK-END\\Model.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\diogo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\diogo\\source\\repos\\desafio-tecnico-backend\\BACK-END\\Model.Domain\\Model.Domain.csproj": {
+                "projectPath": "C:\\Users\\diogo\\source\\repos\\desafio-tecnico-backend\\BACK-END\\Model.Domain\\Model.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\diogo\\source\\repos\\desafio-tecnico-backend\\BACK-END\\Model.Service\\Model.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\diogo\\source\\repos\\desafio-tecnico-backend\\BACK-END\\Model.Service\\Model.Service.csproj",
+        "projectName": "Model.Service",
+        "projectPath": "C:\\Users\\diogo\\source\\repos\\desafio-tecnico-backend\\BACK-END\\Model.Service\\Model.Service.csproj",
+        "packagesPath": "C:\\Users\\diogo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\diogo\\source\\repos\\desafio-tecnico-backend\\BACK-END\\Model.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\diogo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\diogo\\source\\repos\\desafio-tecnico-backend\\BACK-END\\Model.Domain\\Model.Domain.csproj": {
+                "projectPath": "C:\\Users\\diogo\\source\\repos\\desafio-tecnico-backend\\BACK-END\\Model.Domain\\Model.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
